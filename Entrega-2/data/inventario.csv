@@ -1,0 +1,49 @@
+XYZ001    , Ford  , Focus  , Azul  , Autom�tica       ,Economico,Disponible,SedeA
+XYZ002    , Toyota, Corolla, Blanco, Manual           ,SUV        ,Disponible,SedeB
+XYZ003    , Honda , Civic  , Negro , Autom�tica       ,Lujo       ,Mantenimiento,SedeC
+XYZ004    , Chevrolet, Malibu , Plateado , Autom�tica  ,Van        ,Disponible,SedeA
+XYZ005    , BMW   , X5     , Gris  , Autom�tica       ,Economico,Alquilado,SedeB
+XYZ006    , Mercedes, C-Class, Rojo  , Manual           ,SUV        ,Mantenimiento,SedeC
+XYZ007    , Ford  , Escape , Verde , Autom�tica       ,Lujo       ,Disponible,SedeA
+XYZ008    , Toyota, Highlander , Azul , Autom�tica     ,Van        ,Alquilado,SedeB
+XYZ009    , Audi  , A6     , Negro , Autom�tica       ,Economico,Mantenimiento,SedeA
+XYZ010    , Dodge , Grand Caravan, Blanco , Autom�tica ,SUV        ,Disponible,SedeA
+XYZ011    , Nissan, Altima , Gris  , Manual           ,Lujo       ,Alquilado,SedeA
+XYZ012    , Jeep  , Wrangler , Naranja , Manual       ,Van        ,Mantenimiento,SedeA
+XYZ013    , Lexus , RX     , Plateado , Autom�tica    ,Economico,Disponible,SedeA
+XYZ014    , Hyundai, Santa Fe , Rojo , Autom�tica     ,SUV        ,Alquilado,SedeB
+XYZ015    , Tesla , Model S, Negro , Autom�tica       ,Lujo       ,Mantenimiento,SedeC
+XYZ016    , Volkswagen, Tiguan , Blanco , Autom�tica  ,Van        ,Disponible,SedeA
+XYZ017    , Subaru, Outback , Azul  , Manual           ,Economico,Alquilado,SedeB
+XYZ018    , Porsche, Panamera, Dorado , Autom�tica    ,SUV        ,Mantenimiento,SedeC
+XYZ019    , Ford  , Transit , Verde , Manual           ,Lujo       ,Disponible,SedeA
+XYZ020    , Kia   , Sorento , Gris  , Autom�tica       ,Van        ,Alquilado,SedeB
+XYZ021    , Jaguar, F-PACE , Negro , Autom�tica       ,Economico,Mantenimiento,SedeC
+XYZ022    , Chevrolet, Express , Blanco , Manual      ,SUV        ,Disponible,SedeA
+XYZ023    , Toyota, RAV4   , Rojo  , Autom�tica       ,Lujo       ,Alquilado,SedeB
+XYZ024    , Volvo , XC90   , Plateado , Autom�tica    ,Van        ,Mantenimiento,SedeC
+XYZ025    , GMC   , Savana , Azul  , Manual           ,Economico,Disponible,SedeA
+XYZ026    , Ford  , Explorer, Negro , Autom�tica       ,SUV        ,Alquilado,SedeB
+XYZ027    , BMW   , 7 Series, Gris  , Autom�tica       ,Lujo       ,Mantenimiento,SedeC
+XYZ028    , Chevrolet, Traverse , Blanco , Autom�tica ,Van        ,Disponible,SedeA
+XYZ029    , Audi  , Q5     , Rojo  , Manual           ,Economico,Alquilado,SedeB
+XYZ030    , Honda , Odyssey , Plateado , Autom�tica   ,SUV        ,Mantenimiento,SedeC
+XYZ031    , Mercedes, GLC   , Dorado , Autom�tica      ,Lujo       ,Disponible,SedeA
+XYZ032    , Toyota, Sienna , Negro , Manual           ,Van        ,Alquilado,SedeB
+XYZ033    , Ford  , Mustang, Azul  , Autom�tica       ,Economico,Mantenimiento,SedeC
+XYZ034    , Hyundai, Tucson , Blanco , Autom�tica      ,SUV        ,Disponible,SedeA
+XYZ035    , Tesla , Model X, Negro , Manual           ,Lujo       ,Alquilado,SedeB
+XYZ036    , Lexus , NX     , Gris  , Autom�tica       ,Van        ,Mantenimiento,SedeC
+XYZ037    , Jeep  , Grand Cherokee, Rojo , Autom�tica ,Economico,Disponible,SedeA
+XYZ038    , Subaru, Forester, Plateado , Manual        ,SUV        ,Alquilado,SedeB
+XYZ039    , Porsche, Cayenne, Dorado , Autom�tica     ,Lujo       ,Mantenimiento,SedeC
+XYZ040    , Dodge , Journey, Verde , Autom�tica       ,Van        ,Disponible,SedeA
+XYZ041    , Nissan, Pathfinder , Azul , Autom�tica    ,Economico,Alquilado,SedeB
+XYZ042    , Jaguar, E-PACE, Rojo  , Manual           ,SUV        ,Mantenimiento,SedeC
+XYZ043    , Chevrolet, Colorado , Plateado , Manual   ,Lujo       ,Disponible,SedeA
+XYZ044    , Toyota, Land Cruiser , Blanco , Autom�tica,Van        ,Alquilado,SedeB
+XYZ045    , Volvo , V60   , Negro , Autom�tica        ,Economico,Mantenimiento,SedeC
+XYZ046    , GMC   , Yukon  , Gris  , Manual           ,SUV        ,Disponible,SedeA
+XYZ047    , Ford  , Ecosport, Dorado , Autom�tica     ,Lujo       ,Alquilado,SedeB
+XYZ048    , BMW   , X3     , Verde , Manual           ,Van        ,Mantenimiento,SedeC
+XYZ049    , Chevrolet, Tahoe , Azul  , Autom�tica      ,Economico,Disponible,SedeA

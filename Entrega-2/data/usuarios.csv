@@ -1,0 +1,17 @@
+Correo,Password,Rol,Nombre,Telefono,Fecha de nacimiento,Nacionalidad,ID,Numero de licencia,Pais de expedicion licencia,Fecha de vencimento licencia,Imagen de licencia,Nombre titular de la tarjeta,Numero de la tarjeta ,Fecha de vencimiento de la tarjeta ,Codigo de seguridad de la tarjeta ,sede;;;;;;
+cliente@example.com,contraseña1,cliente, Juan   , 123-456-7890 , 1990-05-15           , Argentina    ,1234567890, 54321-AR            , Argentina                    , 2025-05-15                   , link_imagen.jpg    , Juan Pérez                  , 1234-5678-9012-3456 , 2025-05-01                      ,123,null;;;;;;
+adminlocal@example.com,ejemplo123,Admin Local, María , 987-654-3210 , 1985-08-25 , España ,9876543210,,,,,,,,,SedeA;;;;;;
+admingeneral@example.com,entradaunique,Admin General, Carlos , 876-543-2109 , 1978-02-10 , México ,8765432109,,,,,,,,,SedeA;;;;;;
+empleado@example.com,example456,Empleado, Laura , 765-432-1098 , 1995-11-30 , Colombia ,7654321098,,,,,,,,,SedeA;;;;;;
+c,c,Empleado, Laura , 765-432-1099, 1995-11-31, Colombia ,7654321099,,,,,,,,,SedeA;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
